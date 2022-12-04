@@ -1,0 +1,40 @@
+
+h1{
+    color: black;
+    text-align: center;
+
+}
+button{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+#button1 {
+    background-color: red;
+}
+#button2 {
+    background-color: green;
+}
+#button3{
+    background-color: blue;
+}
+
+.backgroundcolorparagaph {
+    background-color: black;
+    color: white;
+    font-weight: 500;
+    font-size: 25px;
+    padding: 20px;
+    text-align: center;
+
+}
+
+span{
+    color:rgb(248, 4, 98);
+}
+
+p{
+    text-align: center;
+}
